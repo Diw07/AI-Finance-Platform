@@ -109,18 +109,5 @@ temp/
 
 # Documentation and resources (not needed for running)
 others/
-DEPLOYMENT.md
-GITHUB_SETUP.md
-PUSH_TO_GITHUB.md
-BEFORE_PUSHING.md
-PUSH_NOW.txt
-push-2-days.bat
-push-clean.bat
-SETUP.md
-QUICKSTART.md
-PROJECT_INDEX.md
-INTERVIEW_QA.md
-DEMO_*.md
-TERMINAL_*.md
-START_HERE*.md
+push-*.bat
 
